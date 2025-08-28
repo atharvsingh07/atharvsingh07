@@ -18,7 +18,7 @@
 - 🌱 **Currently Learning:** React ecosystem, Node.js backend development
 - 💬 **Ask me about:** React, Tailwind CSS, C++, and frontend best practices
 - 📫 **Reach me at:** [atharvsingh07fire@gmail.com](mailto:atharvsingh07fire@gmail.com)
-- ⚡ **Fun fact:** I love turning coffee into code! ☕→💻
+- ⚡ **Fun fact:** Turning caffiene into code! ☕→💻
 
 ---
 
@@ -45,7 +45,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
