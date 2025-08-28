@@ -14,14 +14,6 @@
 
 ## 🎯 About Me
 
-\`\`\`javascript
-const atharv = {
-    location: "India 🇮🇳",
-    currentFocus: ["React", "Node.js", "Full-Stack Development"],
-    askMeAbout: ["React", "Tailwind CSS", "C++", "Frontend Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-\`\`\`
 
 - 🌱 **Currently Learning:** React ecosystem, Node.js backend development
 - 💬 **Ask me about:** React, Tailwind CSS, C++, and frontend best practices
